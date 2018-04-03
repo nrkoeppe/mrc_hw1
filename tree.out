@@ -1,0 +1,27 @@
+/home/nick
+├── Desktop
+├── Documents
+│   └── MATLAB
+├── Downloads
+├── mrc_hw1
+│   └── README.md
+├── Music
+├── Pictures
+├── playpen
+│   ├── commands.txt
+│   ├── folder1
+│   │   └── file1.txt
+│   └── folder2
+│       └── file2.txt
+├── Public
+├── sandbox
+│   ├── commands.txt
+│   ├── dir1
+│   │   └── file1.txt
+│   └── dir2
+│       └── file2.txt
+├── Templates
+├── tree.out
+└── Videos
+
+16 directories, 8 files
